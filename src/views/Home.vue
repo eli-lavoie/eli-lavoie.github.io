@@ -29,6 +29,12 @@
           of the Nashville Software School. I graduated from the NSS in
           September of 2020, and am currently seeking full time employment.
         </p>
+        <p class="is-size-5 about-txt">
+          I'm a musician, I love good coffee, and I spend my free time playing
+          games with my friends. I enjoy surrounding myself with friendly people
+          and always look to carry a positive attitude in my life. I also love
+          to learn things that help me improve myself and my development skills!
+        </p>
       </div>
     </div>
   </div>
