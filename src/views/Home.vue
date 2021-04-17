@@ -3,7 +3,7 @@
     <div class="home-header">
       <p class="title is-1">Elijah Lavoie</p>
       <p class="subtitle is-3">
-        Software Developer - Tech Enthusiast - Coffee Aficionado - Nerd Hobbyist
+        Software Developer · Tech Enthusiast · Coffee Aficionado · Nerd Hobbyist
       </p>
     </div>
     <hr class="section-divider" />
@@ -41,7 +41,6 @@
 </template>
 
 <script>
-
 export default {
   name: "Home",
 };
@@ -52,7 +51,7 @@ export default {
   margin-top: 3.5em;
 }
 .section-divider {
-  border-bottom: 2.8px solid red;
+  border-bottom: 2.8px solid #002366;
   margin-left: 15%;
   margin-right: 15%;
 }
